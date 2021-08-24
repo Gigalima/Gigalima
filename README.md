@@ -1,16 +1,22 @@
-### Hi there 👋
+# Douglas Lima
 
-<!--
-**Gigalima/Gigalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>- Técnico em Informática, SENAC
+>- Estudante de Análise e Desenvolvimento de Sistemas, MACKENZIE
+
+  
+
+### Interesses
+
+>- :computer: Interesse em atuar com backend;
+>- :books: No momento estou estudando Java e Spring Framework;
+>- :beginner: Possuo noções de front em HTML, CSS e JavaScript;
+>- :smiley: Gosto de aprender;
+
+
+### Onde me encontrar
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglima/)
