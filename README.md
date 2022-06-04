@@ -11,7 +11,7 @@
 
 ### Interesses
 
->- :computer: Interesse em atuar com backend;
+>- :computer: Interesse em atuar com backend; 
 >- :books: No momento estou estudando Java e Spring Framework;
 >- :beginner: Possuo noções de front em HTML, CSS e JavaScript;
 >- :smiley: Gosto de aprender;
