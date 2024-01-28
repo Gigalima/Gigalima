@@ -2,19 +2,11 @@
 
   
 
-### Sobre mim
-
->- Técnico em Informática, SENAC
->- Estudante de Análise e Desenvolvimento de Sistemas, MACKENZIE
-
-  
 
 ### Interesses
 
->- :computer: Interesse em atuar com backend; 
->- :books: No momento estou estudando Java e Spring Framework;
->- :beginner: Possuo noções de front em HTML, CSS e JavaScript;
->- :smiley: Gosto de aprender;
+>- :books::computer: Estudando Java e Spring Framework;
+>- :smiley: Aprendendo constantemente;
 
 
 ### Onde me encontrar
